@@ -18,7 +18,7 @@ Problème courrant de l'application Android :
   **Solution** : désactiver l’option **Données mobiles** des smartphones qui enregistrent les scores en cible.
 
 
-## Trapta-Score : 
+## Trapta-Score
 
 * **Symptôme** :  Trapta-score  ne liste pas les marques en direct.
 
