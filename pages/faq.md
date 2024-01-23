@@ -4,14 +4,14 @@
 ## Application Android
 Problème courrant de l'application Android :
 
-* **Symptôme** : TRAPTA app v1.32 affiche de la somme des volées de 3 flèches sur 2 chiffres.
+### **Symptôme** : TRAPTA app v1.32 affiche de la somme des volées de 3 flèches sur 2 chiffres.
 
   **Explication** : La version 1.32 de l'application Android Trapta a un bug d'affichage avec les écrans à faible résolution.
 
   **Solution** : mettre à jour avec la version **app v1.33** téléchargeable sur [GitHub](https://github.com/TRAPTAProject/trapta-app/releases) ou sur [Google Play](https://play.google.com/store/apps/details?id=com.trapta.app)
 
 
-* **Symptôme** : Un smartphone ne parvient pas à reconnaître le Wifi du routeur TRAPTA.
+### **Symptôme** : Un smartphone ne parvient pas à reconnaître le Wifi du routeur TRAPTA.
 
   **Explication** : Le téléphone tente d'utiliser la connexion de data au lieu du wifi comme réseau principal.
 
@@ -20,7 +20,7 @@ Problème courrant de l'application Android :
 
 ## Trapta-Score
 
-* **Symptôme** :  Trapta-score  ne liste pas les marques en direct.
+### **Symptôme** :  Trapta-score  ne liste pas les marques en direct.
 
   **Explication** : La version hitorique de trapta-score et trapta-score-Simple ne gère pas le HTTPS.
 
@@ -32,7 +32,7 @@ Problème courrant de l'application Android :
   ```<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>```
   dans le fichier index.php.
 
-* **Symptôme** : Hébergement web incompatible.
+### **Symptôme** : Hébergement web incompatible.
 
   **Explication** : La version de PHP ou l'utilisation de HTTPS peut entrainer une incompatibilité avec certain hébergeurs
 
@@ -53,7 +53,7 @@ Problème courrant de l'application Android :
 
 ## Trapta Cloud
 
-* **Symptôme** : TRAPTA Cloud ne se connecte pas.
+### **Symptôme** : TRAPTA Cloud ne se connecte pas.
 
   **Explication** : Mauvaise configuration ou ordre de lancement de TRAPTA Cloud
 
@@ -64,7 +64,7 @@ Problème courrant de l'application Android :
 
 ## Trapta Serveurs
 
-* **Symptôme** : TRAPTA Server (ou trapta Transfert) ne parvient pas à lire la liste des archers de Result’Arc
+### **Symptôme** : TRAPTA Server (ou trapta Transfert) ne parvient pas à lire la liste des archers de Result’Arc
 
   **Explication** : Mauvaise configuration ou ordre de lancement de TRAPTA Cloud
 
@@ -77,7 +77,7 @@ Problème courrant de l'application Android :
 
 ## Matériel
 
-* **Symptôme** : La connexion WIFI entre greffe et smartphone est mauvaise.
+### **Symptôme** : La connexion WIFI entre greffe et smartphone est mauvaise.
 
   **Explication** : Le signal peut être perturbé, ou le routeur wifi peut être surchargé par un trop gros nombre d'appareil.
 
