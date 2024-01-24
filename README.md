@@ -1,5 +1,5 @@
 # TRAPTA Website
-Page Web de la documentation du projet TRAPTA
+Page Web de la documentation du projet [TRAPTA.fr](https://trapta.fr)
 
 TRAPTA est un outil utilisé lors des compétitions de tir à l'arc.
 
@@ -13,3 +13,9 @@ Ce site regroupe la documentation de la solution TRAPTA
 1. [Guide Utilisateur](pages/usage/usage.md)
 1. [FAQ](pages/faq.md)
 1. [Ressources](pages/resources.md)
+
+## Scores en ligne
+[trapta.fr/score/](https://trapta.fr/score/) liste des hébergements de suivi des scores en ligne.
+
+En tant que comité de tir à l'arc, vous pouvez être listés dans ce répertoire et/ou ouvrir un compte de suivi des scores en ligne sur demande à [contact@trapta.fr](mailto:contact@trapta.fr).
+La publication en ligne sur trapta.fr/score est multi-concours, fonctionne avec TRAPTA Cloud avec publication du fichier pdf des feuilles de marques.
