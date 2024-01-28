@@ -74,6 +74,14 @@ Problème courrant de l'application Android :
 ``c:\resultarc9``
   Saisir les compétiteurs avec ``c:\resultarc9\ffta.exe`` puis, avant chaque départ, lister les archers pour le transfert vers TRAPTA serveur dans ``c:\resultarc9``
 
+### **Symptôme** : TRAPTA Server (ou trapta Transfert) ne se lance pas car msvcp140.dll est manquant
+
+  **Explication** : les fichiers DLL redistribuables de Visual Studio ne sont pas installés
+
+  **Solution** : télécharger et exécutez la mise à jour Microsoft 32 bits: https://aka.ms/vs/17/release/vc_redist.x86.exe
+  
+les infomations sur les dll manquants sont disponibles sur:
+https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 ## Matériel
 
