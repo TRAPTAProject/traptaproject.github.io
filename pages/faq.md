@@ -78,23 +78,23 @@ Problème courrant de l'application Android :
 
   **Explication** : les fichiers DLL redistribuables de Visual Studio ne sont pas installés
 
-  **Solution** : télécharger et exécutez la mise à jour Microsoft 32 bits: https://aka.ms/vs/17/release/vc_redist.x86.exe
+  **Solution** : télécharger et exécutez la mise à jour Microsoft 32 bits: [https://aka.ms/vs/17/release/vc_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe)
   
 les infomations sur les dll manquants sont disponibles sur:
-https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+[https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ## Matériel
 
 ### **Symptôme** : La connexion WIFI entre greffe et smartphone est mauvaise.
 
-  **Explication** : Le signal peut être perturbé, ou le routeur wifi peut être surchargé par un trop gros nombre d'appareil.
+  **Explication** : Le signal peut être perturbé, ou le routeur wifi peut être surchargé par un trop gros nombre d'appareils.
 
   **Solution** : 
-  * La couverture WIFI dans un gymnase comportant une quinzaine de cibles peut très bien fonctionner bien avec un routeur de faible puissance comme le robuste Linksys WRT54GL une box Internet (freebox...).
+  * La couverture WIFI dans un gymnase comportant une quinzaine de cibles peut très bien fonctionner bien avec un routeur de faible puissance comme le robuste Linksys WRT54GL ou une box Internet (freebox...).
   * Sur un terrain extérieur pour l'organisation de concours à plus de 30 à 40 cibles sur les distances dépassant 100m, une configuration Wifi supportant un grand nombre de connexions à longue distance est requise.
     La configuration recommandée comprend
     * Un switch avec branchement POE (alimentation par câble Ethernet)
     * Une antenne wifi de type Ubiquity
     * Eventuellement, un long câble Ethernet (50m) pour relier le switch entre l'ordinateur du greffe sous les tribunes d'un stade à l'antenne wifi placée à l'extérieur en hauteur sur les gradins
 
-    Exemple de configuration https://cd31arc.fr/tir/trapta/#Materiel
+    Exemple de configuration [https://cd31arc.fr/tir/trapta/#Materiel](https://cd31arc.fr/tir/trapta/#Materiel)
