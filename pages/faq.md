@@ -10,6 +10,7 @@ Problème courrant de l'application Android :
 
   **Solution** : mettre à jour avec la version **app v1.33** téléchargeable sur [GitHub](https://github.com/TRAPTAProject/trapta-app/releases) ou sur [Google Play](https://play.google.com/store/apps/details?id=com.trapta.app)
 
+  
 
 ### **Symptôme** : Un smartphone ne parvient pas à reconnaître le Wifi du routeur TRAPTA.
 
@@ -78,10 +79,12 @@ Problème courrant de l'application Android :
 
   **Explication** : les fichiers DLL redistribuables de Visual Studio ne sont pas installés
 
-  **Solution** : télécharger et exécutez la mise à jour Microsoft 32 bits: [https://aka.ms/vs/17/release/vc_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+  **Solution** : avec versions antérieures à 2024, télécharger et exécutez la mise à jour Microsoft 32 bits: [https://aka.ms/vs/17/release/vc_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe)
   
 les infomations sur les dll manquants sont disponibles sur:
 [https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+**Solution** : l'installation de TRAPTA Cloud v2.5 contient les DLL requis et n'exige plus de mise à jour Microsoft.
 
 ## Matériel
 
