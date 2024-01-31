@@ -19,3 +19,11 @@ Ce site regroupe la documentation de la solution TRAPTA
 
 En tant que comité de tir à l'arc, vous pouvez être listés dans ce répertoire et/ou ouvrir un compte de suivi des scores en ligne sur demande à [contact@trapta.fr](mailto:contact@trapta.fr).
 La publication en ligne sur trapta.fr/score est multi-concours, fonctionne avec TRAPTA Cloud avec publication du fichier pdf des feuilles de marques.
+
+## Manuels pour les versions TRAPTA antérieures à 2024 
+
+Introduction [https://trapta.fr/doc/TRAPTAIntro.pdf](https://trapta.fr/doc/TRAPTAIntro.pdf)
+
+Utilisation [https://trapta.fr/doc/TRAPTADoc.pdf](https://trapta.fr/doc/TRAPTADoc.pdf)
+
+Matériel [https://trapta.fr/doc/TRAPTAMateriel.pdf](https://trapta.fr/doc/TRAPTAMateriel.pdf)
