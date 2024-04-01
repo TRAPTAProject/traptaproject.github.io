@@ -27,6 +27,7 @@ Problème courrant de l'application Android :
   2. allumer l'ordinateur
   3. lancer TRAPTA Server
   4. choisir le départ (départ 1 pour le premier départ)
+  5. allumer un smartphone, lancer TRAPTA, option "Menu-> redémarrer en mode connecté", choisir la cible.
 
 ## Trapta-Score
 
