@@ -20,7 +20,7 @@ Problème courrant de l'application Android :
 
 ### **Symptôme** : Un smartphone ne se connecte pas à TRAPTA Server.
 
-  **Explication** : La procédure de lancement n'& pas été faite dans le bon ordre
+  **Explication** : La procédure de lancement n'a pas été faite dans le bon ordre
 
   **Solution** : Toutes les alimentations électriques étant éteintes, effectuer les branchements, notamment entre le routeur vers l'antenne et vers l'ordinateur du greffe.
   1. allumer le routeur
