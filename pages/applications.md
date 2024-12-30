@@ -37,13 +37,15 @@ TRAPTA Viewer se connecte au serveur TRAPTA et affiche le classement individuel 
 
 Sources de l'application : https://github.com/TRAPTAProject/score-trapta
 
+Trapta score est l'application web qui permet d'héberger un site de publication des scores en ligne. Cet outils permet de fournir a distances au archers et proches des archers un site web sur lequesl consulter les positions des archers, les scores en temps rééel des archers, équipes et matchs.
+
 ## TRAPTA Cloud
 
 [trapta-viwer](../images/applications/traptaviwer128.png)
 
 Sources de l'application : https://github.com/TRAPTAProject/traptaviewer
 
-TRAPTA Cloud se connecte au site web TRAPTA et poste les classements et feuilles de scores individuelles sur internet. Trapta-score permet de recevoir les résultats de TRAPTA Clous
+TRAPTA Cloud se connecte au site web TRAPTA et poste les classements et feuilles de scores individuelles sur internet. Trapta-score permet de recevoir les résultats de TRAPTA Cloud.
 
 ## TRAPTA Transfert
 
